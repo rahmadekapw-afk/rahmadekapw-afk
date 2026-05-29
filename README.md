@@ -15,7 +15,7 @@
       <p>🚀 Saya senang membangun sistem digital, mengulik algoritma rekomendasi, dan mengintegrasikan visual branding ke dalam baris kode.</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmadekapw-afk&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=rahmadekapw-afk&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -65,13 +65,13 @@ Berikut adalah beberapa proyek utama yang telah saya kembangkan:
 
 ## 📊 GitHub Performance
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmadekapw-afk&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" alt="Rahmad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=rahmadekapw-afk&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" alt="Rahmad's GitHub Stats" width="48%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=rahmadekapw-afk&theme=vision-friendly-dark&hide_border=false" alt="Rahmad's Streak Stats" width="48%" />
 </div>
 
 ---
 
-## 📫 Connect with Me
+## 🇲🇨 Connect with Me
 Mari berdiskusi tentang web development, visual branding, atau kolaborasi proyek!
 
 <div align="left">
