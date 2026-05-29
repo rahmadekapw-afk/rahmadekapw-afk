@@ -55,7 +55,7 @@ Berikut adalah beberapa proyek utama yang telah saya kembangkan:
 *   **🔹 Koperasi Management System**
     *   *Sistem manajemen koperasi digital untuk pengelolaan simpan pinjam anggota secara transparan dan otomatis.*
 *   **🔹 Hybrid Movie Recommendation System**
-    *   *Sistem rekomendasi film cerdas menggunakan metode Item-Based Collaborative Filtering dan algoritma Apriori.*
+    *   *Sistem rekomendasi film cerdas menggunakan metodeCollaborative Filtering dan Naive Bayes.*
 *   **🔹 Sistem Presensi Mahasiswa (CI4)**
     *   *Platform absensi mahasiswa berbasis web yang cepat dan andal menggunakan CodeIgniter 4.*
 *   **🔹 GreenScan Mobile App**
